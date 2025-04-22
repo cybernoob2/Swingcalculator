@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
-class Mail{
+class Calculator{
     public static void main(String[] args){
         JFrame frame = new JFrame("Calculator");
         frame.setLayout(new BorderLayout());

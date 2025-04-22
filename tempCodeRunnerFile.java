@@ -1,1 +1,0 @@
-panel.add(l4);
